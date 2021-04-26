@@ -1,0 +1,19 @@
+{
+  "name": "adonis_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "ffmpeg-static": "^4.3.0",
+    "moment": "^2.29.1",
+    "ora": "^5.4.0",
+    "ytdl-core": "^4.5.0"
+  }
+}
